@@ -1,0 +1,159 @@
+
+.warp[data-v-8947be46] {
+  max-width: 750px;
+  margin: 0 auto;
+  padding-bottom: 20px;
+  background: #EEE;
+}
+.daily[data-v-8947be46] {
+  padding: 0 20px;
+}
+.label[data-v-8947be46] {
+  text-align: center;
+  line-height: 60px;
+  color: #666;
+  font-size: 14px;
+  font-weight: 100;
+}
+.video[data-v-8947be46] {
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #DFDFDF;
+  border-radius: 6px;
+  background: #FFF;
+}
+.video[data-v-8947be46]:last-child {
+  margin-bottom: 0;
+}
+.video .video-name[data-v-8947be46] {
+  padding-bottom: 10px;
+  font-size: 18px;
+  text-align: justify;
+  color: #333;
+}
+.video-cover[data-v-8947be46] {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+}
+.video img[data-v-8947be46] {
+  position: absolute;
+  width: 100%;
+  height: 99%;
+  object-fit: cover;
+  top: 1px;
+}
+.video video[data-v-8947be46] {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  background: transparent;
+}
+.video .video-info[data-v-8947be46] {
+  padding-top: 10px;
+  text-align: justify;
+  color: #666;
+}
+.btn-warp[data-v-8947be46] {
+  padding: 20px 20px 0;
+}
+.btn-more[data-v-8947be46] {
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  background: #FBCD04;
+  border-radius: 6px;
+}
+body,
+h1,
+h2,
+h3 {
+  padding: 0;
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+body {
+  font-family: -apple-system, SF UI Text, Helvetica Neue, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  font-size: 14px;
+  font-weight: normal;
+  -webkit-tap-highlight-color: transparent;
+  background: #333;
+}
+
+.line {
+  width: 100%;
+  height: 1px;
+  background: #DFDFDF;
+  -webkit-transform-origin: 0 0;
+  transform-origin: 0 0;
+  -webkit-transform: scaleY(.5);
+  transform: scaleY(.5);
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity .5s;
+}
+
+.fade-enter,
+.fade-leave-active {
+  opacity: 0;
+}
+
+.animat[data-v-9cc3a33c] {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background: #EEE;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  text-align: center;
+  padding-top: 100px;
+}
+.animat > div[data-v-9cc3a33c] {
+  background-color: #fff;
+  width: 4px;
+  height: 35px;
+  border-radius: 2px;
+  margin: 2px;
+  animation-fill-mode: both;
+  display: inline-block;
+}
+.animat > div[data-v-9cc3a33c]:nth-child(1) {
+  animation: load .5s 0.1s infinite;
+}
+.animat > div[data-v-9cc3a33c]:nth-child(2) {
+  animation: load .5s 0.3s infinite;
+}
+.animat > div[data-v-9cc3a33c]:nth-child(3) {
+  animation: load .5s 0.3s infinite;
+}
+.animat > div[data-v-9cc3a33c]:nth-child(4) {
+  animation: load .5s 0.4s infinite;
+}
+.animat > div[data-v-9cc3a33c]:nth-child(5) {
+  animation: load .5s 0.5s infinite;
+}
+@keyframes load {
+0% {
+    transform: scaley(1);
+}
+50% {
+    transform: scaley(0.4);
+}
+100% {
+    transform: scaley(1);
+}
+}
+
+/*# sourceMappingURL=index.4a261a1f33731c8525781e412e06cfeb.css.map*/
