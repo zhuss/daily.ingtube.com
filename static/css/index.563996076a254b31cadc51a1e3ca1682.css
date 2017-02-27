@@ -40,21 +40,21 @@
 .video img[data-v-8947be46] {
   position: absolute;
   width: 100%;
-  height: 99%;
-  object-fit: cover;
-  top: 1px;
-}
-.video video[data-v-8947be46] {
-  position: absolute;
-  width: 100%;
   height: 100%;
-  top: 0;
-  background: transparent;
+  object-fit: cover;
+  display: block;
 }
 .video .video-info[data-v-8947be46] {
   padding-top: 10px;
+  padding-bottom: 10px;
   text-align: justify;
   color: #666;
+}
+.video .topic-name[data-v-8947be46] {
+  padding-top: 10px;
+  text-align: right;
+  color: #FBCD04;
+  font-size: 16px;
 }
 .btn-warp[data-v-8947be46] {
   padding: 20px 20px 0;
@@ -156,4 +156,32 @@ body {
 }
 }
 
-/*# sourceMappingURL=index.4a261a1f33731c8525781e412e06cfeb.css.map*/
+.install[data-v-15dadfc2] {
+  padding: 10px;
+  height: 30px;
+  background: #FFF;
+  display: -ms-flexbox;
+  display: flex;
+}
+.logo-warp[data-v-15dadfc2] {
+  height: 30px;
+  -ms-flex: 1;
+      flex: 1;
+}
+.logo-warp img[data-v-15dadfc2] {
+  height: 30px;
+  display: block;
+}
+.btn-warp[data-v-15dadfc2] {
+}
+.btn-warp .btn-install[data-v-15dadfc2] {
+  display: block;
+  width: 80px;
+  height: 30px;
+  background: #FBCD04;
+  border-radius: 30px;
+  text-align: center;
+  line-height: 30px;
+}
+
+/*# sourceMappingURL=index.563996076a254b31cadc51a1e3ca1682.css.map*/

@@ -88,25 +88,25 @@ body {
 }
 }
 
-.install {
+.install[data-v-15dadfc2] {
   padding: 10px;
   height: 30px;
   background: #FFF;
   display: -ms-flexbox;
   display: flex;
 }
-.logo-warp {
+.logo-warp[data-v-15dadfc2] {
   height: 30px;
   -ms-flex: 1;
       flex: 1;
 }
-.logo-warp img {
+.logo-warp img[data-v-15dadfc2] {
   height: 30px;
   display: block;
 }
-.btn-warp {
+.btn-warp[data-v-15dadfc2] {
 }
-.btn-warp .btn-install {
+.btn-warp .btn-install[data-v-15dadfc2] {
   display: block;
   width: 80px;
   height: 30px;
@@ -319,4 +319,4 @@ to {
   background-size: 50px;
 }
 
-/*# sourceMappingURL=video.91b50e96f76ec8040cb09d4641369bc4.css.map*/
+/*# sourceMappingURL=video.5974ab9865d370418cb1e3b1d721bd0f.css.map*/

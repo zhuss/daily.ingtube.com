@@ -88,6 +88,34 @@ body {
 }
 }
 
+.install[data-v-15dadfc2] {
+  padding: 10px;
+  height: 30px;
+  background: #FFF;
+  display: -ms-flexbox;
+  display: flex;
+}
+.logo-warp[data-v-15dadfc2] {
+  height: 30px;
+  -ms-flex: 1;
+      flex: 1;
+}
+.logo-warp img[data-v-15dadfc2] {
+  height: 30px;
+  display: block;
+}
+.btn-warp[data-v-15dadfc2] {
+}
+.btn-warp .btn-install[data-v-15dadfc2] {
+  display: block;
+  width: 80px;
+  height: 30px;
+  background: #FBCD04;
+  border-radius: 30px;
+  text-align: center;
+  line-height: 30px;
+}
+
 .warp[data-v-51d03a52] {
   max-width: 750px;
   margin: 0 auto;
@@ -118,7 +146,7 @@ body {
   text-align: justify;
   font-weight: 100;
   font-size: 12px;
-  line-height: 20px;
+  line-height: 16px;
   background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAaCAYAAADWm14/AAAAAXNSR0IArs4c6QAAArZJREFUSA3tVT1oVEEQntl9dxf/wD8QLc4fkAiRO700NgqiYJHCQk1ro4hlIFipRESwSMBSCy20slPsbAXR5r0LIcFoCBEJaCBpNHo/uzvOPozc7dv37k4Rmywcd/vN9803zN7OInRYFObKGuAaEs3IQXWnAz0zTFHhoDZmlAC+5wabI5aMaQqazB/Wyowz+UxMRFiRckcRy19W0zRpOE1vKOq6Ggegc0Qg2LQm+wr7cWD1s/CJVJS7yOZv18wth4XbjV6+4uNnYSoqDOl6MyKiC9Y8zgXQpxqeDjAJdZh/QECXfUkRYVEW+g/gwHTDF3exZpi/hWBusHGi0wx8lWJzsa0Dqlq4nWb+K/luXZ875Rr59jrMXQUyN33mls/d3aJh9ezvylQ1P0zaPPUlY1ITEO9LkBNYqX30cVqxZrXvJGr1kk2CVtz+5i4aIHwsA3EXy/XZuACa3LVJ6+VPXO02V8CK90GA57HUmErEPAAftdTRszk+zn1uOD5ChGE8ql6vxeIKjVm55DNHwHkpC8ex9G1pTdDpW0fPh1PMl2QQnMBSbb41hyAa4w/Ed7I1EP9GMYLl7s2ths1HE3ksgHjdNY9hinJHlKEoKcKpoNIoIyIfZXeLwo17FDUWXXbW7RGG4JgrsHsh4FEv5lajSXlz8fV/knZ1bQGHrNhdxoh3LtZpj8L0+zjcxFkfbjEei7TXF+R/55wPz8J4jnlzSaAPabqAh9TOeCw4DA36ngoD1Q7ji6DSfNiOte6IcyWXJhjjXG1vCN//V7KiJuw13JqUxCUN2XHlrAVn7279uQhOu0S+FT8sJnhK5xPBPwT4CHrOZZ/GnkUZ9eUyYt6QfYziceyN9g72nKvtNezd7+8V6wWsd+C/d8BOwjc8lRa6+T8Lyn4f+NkNebTXusnFb9BMN7x/zvkJao8AhxeuC/wAAAAASUVORK5CYII=) no-repeat left 20px top;
   background-size: 16px;
 }
@@ -203,32 +231,4 @@ body {
   border-radius: 4px;
 }
 
-.install {
-  padding: 10px;
-  height: 30px;
-  background: #FFF;
-  display: -ms-flexbox;
-  display: flex;
-}
-.logo-warp {
-  height: 30px;
-  -ms-flex: 1;
-      flex: 1;
-}
-.logo-warp img {
-  height: 30px;
-  display: block;
-}
-.btn-warp {
-}
-.btn-warp .btn-install {
-  display: block;
-  width: 80px;
-  height: 30px;
-  background: #FBCD04;
-  border-radius: 30px;
-  text-align: center;
-  line-height: 30px;
-}
-
-/*# sourceMappingURL=topic.e89ef25e015928081553824015d88b49.css.map*/
+/*# sourceMappingURL=topic.c4705c21f267769dcc6d06aa32ab1c0e.css.map*/
